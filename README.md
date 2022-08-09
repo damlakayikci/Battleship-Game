@@ -8,5 +8,10 @@ The game consists of 2 parts.
 
 💣 In the second part, the users try to guess where the other user placed the ships and try to shoot the ships by typing the coordinates they want to shoot. The first player to submerge all the ships of the oppenent wins!
 
+Here are the rules: 
+
 ![](pics/game-start.png)
+
+Here is an example of a fully placed table:
+
 ![](pics/game.png)
