@@ -1,4 +1,4 @@
-# Battleship-Game
+# Battleship-Game 
 
 🎮 A complete battleship game, which can be played in the terminal. 
 
